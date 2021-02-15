@@ -1,0 +1,42 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "firstName": "Uttam",
+      "lastName": "Kumar",
+      "email": "uttamrawani14@gmail.com",
+      "mobile": "8521749952",
+      "dateOfBirth": "1995-12-12",
+      "joiningDate": "2020-11-11",
+      "selectProof": "null",
+      "PanNumber": "null",
+      "PassportNumber": "null",
+      "aadharNumber": "DDGH778BNBN",
+      "dateOfExpire": "null",
+      "dateOfIssue": "null",
+      "country": "INDIA",
+      "state": "JHARKHAND",
+      "city": "DHANBAD",
+      "pin": "828306"
+    },
+    {
+      "firstName": "Pooja",
+      "lastName": "Kumar",
+      "email": "uttamrawani14@gmail.com",
+      "mobile": 8521749952,
+      "dateOfBirth": "1111-11-11",
+      "joiningDate": "2020-12-12",
+      "addressControl": null,
+      "aadharNumber": "tyukjjcxc",
+      "PanNumber": "",
+      "PassportNumber": "",
+      "dateOfIssue": "",
+      "dateOfExpire": "",
+      "country": "IND",
+      "city": "AS",
+      "state": "KOL",
+      "pin": 35356,
+      "id": 2
+    }
+  ]
+}
